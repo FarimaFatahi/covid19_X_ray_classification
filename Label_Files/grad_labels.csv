@@ -1,0 +1,9 @@
+Images,labels,encoded_labels
+COVID-1343.png,COVID,0
+COVID-2104.png,COVID,0
+COVID-721.png,COVID,0
+COVID-884.png,COVID,0
+Normal-30.png,NORMAL,1
+Normal-595.png,NORMAL,1
+Normal-468.png,NORMAL,1
+Normal-2619.png,NORMAL,1
